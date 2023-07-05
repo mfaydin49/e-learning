@@ -179,8 +179,14 @@ h2 {
     width: 71%;
     position: absolute;
     left: 29%;
-    max-height: calc(100vh - 160px);
+    max-height: calc(100vh - 220px);
     overflow-y: auto;
+    margin-top: 48px;
+}
+
+.course-section::-webkit-scrollbar {
+    width: 0;
+    background-color: transparent;
 }
 
 .courses {
