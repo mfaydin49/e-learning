@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Money Laundering and Fraud Prevention",
+      "img": "src/assets/fraud_prevention.png",
+      "alt": "Fraud",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Intensification of money laundering prevention - private customer advice",
+          "min": "30min",
+          "finishedDate": "-"
+        },
+        {
+          "id": 2,
+          "title": "Basic Training - Prevention of Money Laundering and Terrorist Financing (V3.0)",
+          "min": "44min",
+          "finishedDate": "-"
+        },
+        {
+          "id": 3,
+          "title": "Advanced Training - Prevention of Money Laundering and Terrorist Financing (V3.0)",
+          "min": "22min",
+          "finishedDate": "-"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "IT security and information security",
+      "img": "src/assets/it_security.png",
+      "alt": "security",
+      "courses": [
+        {
+          "id": 4,
+          "title": "IT security basics (V1.01.3)",
+          "min": "40min",
+          "finishedDate": "March 14, 2024"
+        },
+        {
+          "id": 5,
+          "title": "Basic training IT security and information security (V1.0)",
+          "min": "60min",
+          "finishedDate": "-"
+        },
+        {
+          "id": 6,
+          "title": "Advanced Training IT Security and Information Security (V1.1)",
+          "min": "29min",
+          "finishedDate": "-"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Data Protection",
+      "img": "src/assets/data_protection.png",
+      "alt": "Protection",
+      "courses": [
+        {
+          "id": 7,
+          "title": "Basic training data protection (V2.0)",
+          "min": "0min",
+          "finishedDate": "-"
+        },
+        {
+          "id": 8,
+          "title": "Privacy Basics (V1.00.2)",
+          "min": "40min",
+          "finishedDate": "-"
+        },
+        {
+          "id": 9,
+          "title": "In-depth training on data protection (V1.0)",
+          "min": "51min",
+          "finishedDate": "-"
+        },
+        {
+          "id": 10,
+          "title": "Privacy Basics 1.0",
+          "min": "40min",
+          "finishedDate": "-"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "WpHG-Compliance",
+      "img": "src/assets/wphg.png",
+      "alt": "WpHG",
+      "courses": [
+        {
+          "id": 11,
+          "title": "WpHG compliance basics (V1.00.3)",
+          "min": "30min",
+          "finishedDate": ""
+        },
+        {
+          "id": 12,
+          "title": "In-depth WpHG - sales representative (V1.00.2)",
+          "min": "30min",
+          "finishedDate": ""
+        }
+      ]
+    }
+  ],
+  "isLoading": false
+}

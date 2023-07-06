@@ -1,0 +1,20 @@
+:root {
+    --bg-color: #F5F5F5;
+    --navbar-bg-color: #0164B2;
+    --white: #ffffff;
+    --grey: #716767;
+    --dark-grey: #676767;
+    --black: #333333;
+    --sidebar-title-bg-color: #D8D8D8;
+    --navbar-height: 64px;
+    --blue: #0087D7;
+    --dot: #D8D8D8;
+    --dot-yellow: #FDDD5B;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}

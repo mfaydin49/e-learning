@@ -1,0 +1,14 @@
+{"data":[
+  {
+    "name": "John Doe",
+    "position": "Technical support",
+    "mail": "it@example.com"
+  },
+  {
+    "name": "Jane Roe",
+    "position": "Content-didactic topics",
+    "mail": "content@example.com"
+  }
+],
+"isLoading": false
+}
