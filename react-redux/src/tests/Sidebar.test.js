@@ -1,5 +1,5 @@
 import {screen} from "@testing-library/react";
-import Sidebar from "./Sidebar.jsx";
+import Sidebar from "../components/Sidebar.jsx";
 import {renderWithProviders} from "../utils/test-utils.js";
 
 describe("Sidebar Component", () => {

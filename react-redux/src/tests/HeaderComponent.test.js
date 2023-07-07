@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import HeaderComponent from "./HeaderComponent";
+import HeaderComponent from "../components/HeaderComponent.jsx";
 
 describe('Header Component', () => {
     it('displays logo image', () => {

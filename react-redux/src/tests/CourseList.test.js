@@ -1,4 +1,4 @@
-import CourseList from "./CourseList";
+import CourseList from "../components/CourseList.jsx";
 import {renderWithProviders} from "../utils/test-utils.js";
 
 describe('Course List Component', () => {

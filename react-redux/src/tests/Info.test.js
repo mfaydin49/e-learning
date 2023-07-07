@@ -1,6 +1,6 @@
 import { render } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
-import Info from "./Info";
+import Info from "../components/Info.jsx";
 
 describe("Info Component", () => {
     it("displays correct navigation text based on location", () => {

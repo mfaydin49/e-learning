@@ -1,4 +1,4 @@
-import SidebarContact from "./SidebarContact";
+import SidebarContact from "../components/SidebarContact.jsx";
 import {renderWithProviders} from "../utils/test-utils.js";
 import reducer from '../redux/contactSlice.js'
 import contactData from '../data/contactData.json'
