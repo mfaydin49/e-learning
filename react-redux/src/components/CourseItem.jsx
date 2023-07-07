@@ -2,7 +2,9 @@ const CourseItem = ({course}) => {
     return (
         <div className="courses-wrapper">
             <div className="course-detail">
-                {course.courses.map((course, key) => {
+                {course.courses.length === 0
+                    ? <>Coming Soon...</>
+                    : course.courses.map((course, key) => {
                     return (
                         <div className={'course-inner-wrapper'} key={key}>
                             <div className="course-title">{course.title}</div>

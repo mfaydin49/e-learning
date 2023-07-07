@@ -3,7 +3,7 @@ import {useSelector} from "react-redux";
 const SidebarContact = () => {
     const {contacts} = useSelector((store) => store);
 
-    return contacts.data.map((contact, key) => {
+    contacts.data.map((contact, key) => {
         return (
             <div key={key}>
                 <p className="contact-title">{contact.position}</p>
