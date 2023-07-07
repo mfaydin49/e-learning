@@ -1,7 +1,7 @@
 import SidebarContact from "./SidebarContact.jsx";
 import {useSelector} from "react-redux";
 
-const SideBar = () => {
+const Sidebar = () => {
     const {courses} = useSelector((store) => store);
 
     return (
@@ -30,4 +30,4 @@ const SideBar = () => {
     )
 }
 
-export default SideBar;
+export default Sidebar;
